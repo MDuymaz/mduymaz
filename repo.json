@@ -1,8 +1,0 @@
-{
-    "name": "MuratDUYMAZ",
-    "description": "Deneme ve Yanılma",
-    "manifestVersion": 1,
-    "pluginLists": [
-      "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/plugins.json"
-    ]
-}
