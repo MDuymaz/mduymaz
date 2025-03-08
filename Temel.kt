@@ -1,6 +1,4 @@
-// ! Bu araç @keyiflerolsun tarafından | @KekikAkademi için yazılmıştır.
-
-package com.keyiflerolsun
+package com.mduymaz
 
 import android.util.Log
 import org.jsoup.nodes.Element
