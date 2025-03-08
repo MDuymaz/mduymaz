@@ -1,7 +1,7 @@
 version = 2
 
 cloudstream {
-    authors     = listOf(mduymaz)
+    authors     = listOf("mduymaz")
     language    = "tr"
     description = "Güncel ve eski dizileri en iyi görüntü kalitesiyle bulabileceğiniz yabancı dizi izleme siteniz."
 
