@@ -42,7 +42,7 @@ subprojects {
     }
 
     android {
-        namespace = "mduymaz"
+        namespace = "com.mduymaz"
 
         defaultConfig {
             minSdk = 21
